@@ -1,3 +1,7 @@
+INTRODUCTION
+------------
+This is a basic installation project based on the Zurb Foundation project & Drupal.
+
 
 CONTENTS OF THIS FILE
 ---------------------
